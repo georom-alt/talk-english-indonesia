@@ -1,0 +1,18 @@
+{
+  "country": "Indonesia",
+  "slug": "indonesia",
+  "lang": "id",
+  "domain": "ayobicara.com",
+  "advisor": "Dewi",
+  "title": "Student Success Advisor in Indonesia",
+  "zone": "Asia/Jakarta",
+  "zoneLabel": "WIB - Jakarta (UTC+7)",
+  "single": 160000,
+  "bundle": 560000,
+  "currency": "IDR",
+  "locale": "id_ID",
+  "info": "info@ayobicara.com",
+  "teacher": "george@ayobicara.com",
+  "whatsapp": "16475512695",
+  "release": "20261023-parity-v1"
+}
